@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelrangira
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Structures and algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me at samuelrangira1@gmail.com
 
