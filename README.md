@@ -1,7 +1,7 @@
 Hi, I’m @samuelrangira. 
 I am a Software Engineer.
-Currently learning more about Data Structures and Algorithms, and
-I’m looking to collaborate on Software Development projects.
+I'm learning more about data structures and algorithms,
+and currently looking to collaborate on Software Development projects.
 You can reach me at samuelrangira1@gmail.com
 
 <!---
