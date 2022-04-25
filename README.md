@@ -1,7 +1,7 @@
 Hi, I’m @samuelrangira. 
 I am a Software Engineer.
-I'm learning more about data structures and algorithms,
-and currently looking to collaborate on Software Development projects.
+I'm currently in a Fullstack Coding Bootcamp,
+and looking for internship and/or apprenticeship opportunities to collaborate on Software Development projects.
 You can reach me at samuelrangira1@gmail.com
 
 <!---
