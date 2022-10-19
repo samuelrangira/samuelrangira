@@ -1,7 +1,7 @@
 Hi, I’m @samuelrangira. 
 I am a Software Engineer.
-I'm currently in a Fullstack Coding Bootcamp,
-and looking for Fall 2022 internships and full-time Junior Software Engineering roles over the next year. I would also love to colaborate on projects!
+I am currently in a Fullstack Coding Bootcamp,
+and looking for full-time Software Engineering roles over the next year by May 2023. Thank you for visiting my page! 
 
 
 <!---
