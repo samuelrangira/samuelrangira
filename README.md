@@ -1,7 +1,7 @@
 Hi, I’m Samuel Rangira. 
 I am a Software Engineer.
-I am currently in a Fullstack Coding Bootcamp,
-and looking for full-time Software Engineering roles starting May 2023. Thank you for visiting my page! 
+I design and create computer systems and applications to solve real world problems. 
+May 2023 is my expected graduation date, and I am looking for full-time Software Engineering roles. Thank you for visiting my page! 
 
 
 <!---
